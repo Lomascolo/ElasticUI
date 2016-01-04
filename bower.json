@@ -1,6 +1,6 @@
 {
   "name": "elasticui",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "homepage": "http://www.elasticui.com",
   "description": "AngularJS directives for Elasticsearch",
   "main": "dist/elasticui.min.js",
