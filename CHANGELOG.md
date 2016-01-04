@@ -1,3 +1,6 @@
+## 0.0.8
+- add euiType="'indexType'" directive to restrict searches to given elastic type(s)
+
 ## 0.0.6 (2015-21-3)
 - typescript upgrade
 - force hard refresh with indexVM.refresh(true)
